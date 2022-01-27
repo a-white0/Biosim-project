@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1637699381 source:c:\users\alex7\onedrive\documents\c++ projects\evolving neural network\main.cpp
+	<stdlib.h>
+	<iostream>
+	"creaturequality.h"
+	"gamesettings.h"
+	"string"
+
+1637699467 c:\users\alex7\onedrive\documents\c++ projects\evolving neural network\creaturequality.h
+	<stdio.h>
+	<string>
+	<cmath>
+	"gamesettings.h"
+
+1637691035 source:c:\users\alex7\onedrive\documents\c++ projects\evolving neural network\notes.c
+
+1637693041 c:\users\alex7\onedrive\documents\c++ projects\evolving neural network\gamesettings.h
+	<stdlib.h>
+	<iostream>
+
